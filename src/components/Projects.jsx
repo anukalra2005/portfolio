@@ -33,7 +33,7 @@ function Projects() {
           <h3>🌐 Personal Portfolio</h3>
           <p>This website – built using React & CSS</p>
           <a
-            href="https://github.com/anukalra2005/personal-portfolio"
+            href="https://github.com/anukalra2005/portfolio"
             target="_blank"
             rel="noreferrer"
             className="project-link"
